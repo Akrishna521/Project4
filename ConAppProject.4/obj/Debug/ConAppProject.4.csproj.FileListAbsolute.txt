@@ -1,0 +1,7 @@
+C:\DOT NET\Projects\P4\ConAppProject.4\ConAppProject.4\bin\Debug\ConAppProject.4.exe.config
+C:\DOT NET\Projects\P4\ConAppProject.4\ConAppProject.4\bin\Debug\ConAppProject.4.exe
+C:\DOT NET\Projects\P4\ConAppProject.4\ConAppProject.4\bin\Debug\ConAppProject.4.pdb
+C:\DOT NET\Projects\P4\ConAppProject.4\ConAppProject.4\obj\Debug\ConAppProject.4.csproj.AssemblyReference.cache
+C:\DOT NET\Projects\P4\ConAppProject.4\ConAppProject.4\obj\Debug\ConAppProject.4.csproj.CoreCompileInputs.cache
+C:\DOT NET\Projects\P4\ConAppProject.4\ConAppProject.4\obj\Debug\ConAppProject.4.exe
+C:\DOT NET\Projects\P4\ConAppProject.4\ConAppProject.4\obj\Debug\ConAppProject.4.pdb
